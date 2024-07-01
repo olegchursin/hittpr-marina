@@ -1,0 +1,14 @@
+# Specify only the rules that cannot be defined within the .editorconfig file as Prettier inherits config from there.
+# See: https://prettier.io/docs/en/configuration.html#editorconfig
+
+singleQuote: true
+endOfLine: 'auto'
+arrowParens: 'avoid'
+bracketSpacing: true
+tabWidth: 2
+trailingComma: 'none'
+
+pluginSearchDirs: false
+plugins:
+  - 'prettier-plugin-astro'
+  - 'prettier-plugin-tailwindcss'
