@@ -9,7 +9,7 @@ const mainSectionData = {
     slug: 'profile',
     visible: true
   },
-  image: import('@/assets/marina-hitt.jpeg'),
+  image: import('@/assets/marina-hitt-headshot.jpg'),
   fullName: 'Marina Hitt',
   role: 'Award-winning director, producer.',
   details: [
@@ -52,7 +52,7 @@ const mainSectionData = {
   ],
   action: {
     label: 'Download Resume',
-    url: '/cv.pdf',
+    url: '/marina-hitt-resume.pdf',
     downloadedFileName: 'marina_hitt_resume.pdf'
   },
   links: [
