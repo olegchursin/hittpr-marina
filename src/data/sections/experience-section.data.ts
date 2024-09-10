@@ -81,7 +81,7 @@ const experienceSectionData = {
       role: 'Reporter / Producer',
       company: 'MTV Russia',
       image: import('@/assets/logos/mtv.jpeg'),
-      dates: [new Date('2010-02'), new Date('2018-05')],
+      dates: [new Date('2010-02'), new Date('2013-06')],
       description: `
         - Edited and contributed regularly to the talk show "Tell Me, Girls." 2012
         - Created and produced special projects for MTV, including "Athletes: The Country's Enviable Suitors," "Behind the Scenes of TV Project: Vacations in Mexico," "Mario Casas: Three Meters Above the Sky," and "Staying Alive: The Whole Truth About the End of the World." 2013 
